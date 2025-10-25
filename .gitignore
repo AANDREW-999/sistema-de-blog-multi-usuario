@@ -10,6 +10,7 @@ wheels/
 *.txt
 *.csv
 *.pkl
+*.json
 
 # Entornos virtuales
 venv/
