@@ -4,9 +4,9 @@ version = "0.1.0"
 description = "Sistema de Blog Multi-usuario (Rich, Pytest, Ruff)"
 authors = [
     { name = "Andres Gonzalez", email = "andresfelipegonzalez5a@gmail.com" },
-    { name = "David Pedraza", email = "andresfelipegonzalez5a@gmail.com" },
-    { name = "Erika Pesca", email = "andresfelipegonzalez5a@gmail.com" },
-    { name = "Alisson Ruiz", email = "andresfelipegonzalez5a@gmail.com" }
+    { name = "David Pedraza", email = "pedrazadavidleonardo@gmail.com" },
+    { name = "Erika Pesca", email = "epescaalfonso@gmail.com" },
+    { name = "Alisson Ruiz", email = "ruizhernandezallisonmichele@gmail.com" }
 ]
 readme = "README.md"
 requires-python = ">=3.13"
